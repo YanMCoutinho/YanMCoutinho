@@ -1,7 +1,3 @@
-
-<img width="auto" src="https://github.com/YanMCoutinho/YanMCoutinho/blob/master/banner.png">
-
-
 # Yan M. Coutinho
 
 ## Olá! 🖖🏻
