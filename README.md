@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**YanMCoutinho/YanMCoutinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="auto" src="https://github.com/YanMCoutinho/YanMCoutinho/blob/master/banner.png">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Yan M. Coutinho
+
+## Olá! 🖖🏻
+
+Sou apaixonado por resolver problemas e pretendo utilizar da programação para isso, apesar de estar ainda no ínicio.
+Atualmente estou:
+
+
+
+ <br/> :blue_book: Cursando o ensino médio com curso técnico em DS (Desenvolvimento de Sistemas).
+ <br/> 🕵️‍ Procurando saber mais sobre programação em meu tempo livre.
+ <br/> 🖥️ Trabalhando em algum projeto pessoal para fixar o meu conhecimento.
+ 
+ 
+ [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
