@@ -11,6 +11,11 @@ Atualmente estou:
  <br/> 🕵️‍ Procurando saber mais sobre programação em meu tempo livre.
  <br/> 🖥️ Trabalhando em algum projeto pessoal para fixar o meu conhecimento.
  
+<div align=center>
+ ![Helder's github stats](https://github-readme-stats.vercel.app/api?username=YanMCoutinho&show_icons=true&theme=material-palenight)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanMCoutinho&langs_count=10&layout=compact&theme=material-palenight)](https://github.com/YanMCoutinho/github-readme-stats)
+ </div>
+ 
  
  [![Linkedin Badge](https://img.shields.io/badge/-Yan_M.Coutinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yan-m-coutinho-7921701b1/)](https://www.linkedin.com/in/yan-m-coutinho-7921701b1/) 
 <strong>|</stroong>
