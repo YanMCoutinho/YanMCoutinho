@@ -11,10 +11,12 @@ Atualmente estou:
  <br/> 🕵️‍ Procurando saber mais sobre programação em meu tempo livre.
  <br/> 🖥️ Trabalhando em algum projeto pessoal para fixar o meu conhecimento.
  
+ <div >
  <br/> 
-<a href="https://github-readme-stats.vercel.app/api?username=YanMCoutinho&show_icons=true&theme=material-palenight"></a>
+ <img src="https://github-readme-stats.vercel.app/api?username=YanMCoutinho&show_icons=true&theme=material-palenight">
  <br/>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanMCoutinho&langs_count=10&layout=compact&theme=material-palenight)](https://github.com/YanMCoutinho/github-readme-stats)
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanMCoutinho&langs_count=10&layout=compact&theme=material-palenight">
+ </div>
  
  <br/>
  
