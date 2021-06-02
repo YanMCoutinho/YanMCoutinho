@@ -12,8 +12,7 @@ Atualmente estou:
  <br/> 🖥️ Trabalhando em algum projeto pessoal para fixar o meu conhecimento.
  
  <br/> 
-
- ![Yan's github stats](https://github-readme-stats.vercel.app/api?username=YanMCoutinho&show_icons=true&theme=material-palenight)
+<a href="https://github-readme-stats.vercel.app/api?username=YanMCoutinho&show_icons=true&theme=material-palenight"></a>
  <br/>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanMCoutinho&langs_count=10&layout=compact&theme=material-palenight)](https://github.com/YanMCoutinho/github-readme-stats)
  
