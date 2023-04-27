@@ -2,12 +2,12 @@
 
 ## Olá! 🖖🏻
 
-Sou apaixonado por resolver problemas e pretendo utilizar da programação para isso, apesar de estar ainda no ínicio.     
+Sou apaixonado por resolver problemas e pretendo utilizar da programação para isso.     
 Atualmente estou:
 
 
 
- <br/> :blue_book: Cursando o ensino médio com curso técnico em DS (Desenvolvimento de Sistemas).
+ <br/> :blue_book: Cursando o ensino superior em SI (Sistemas da Informação).
  <br/> 🕵️‍ Procurando saber mais sobre programação em meu tempo livre.
  <br/> 🖥️ Trabalhando em algum projeto pessoal para fixar o meu conhecimento.
  
