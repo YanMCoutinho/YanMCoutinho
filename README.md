@@ -2,14 +2,12 @@
 
 ## Olá! 🖖🏻
 
-Sou apaixonado por resolver problemas e pretendo utilizar da programação para isso.     
-Atualmente estou:
+Sou apaixonado por resolver problemas reais e impactar a vida das pessoas, descobri na tecnologia meu meio para aplicar minha paixão! Ao longo da minha experiência acadêmica e profissional, percebi a importância de alinhar as necessidades humanas com as técnicas para criar a melhor solução.
 
-
-
- <br/> :blue_book: Cursando o ensino superior em SI (Sistemas da Informação).
- <br/> 🕵️‍ Procurando saber mais sobre programação em meu tempo livre.
- <br/> 🖥️ Trabalhando em algum projeto pessoal para fixar o meu conhecimento.
+Além disso, adoro participar de competições, como hackathons e olimpíadas. Com isso, ganhei 2 hackathons de blockchain e sou medalhista na OBR 2022. Por fim, atualmente estou:
+<br/>📘 Cursando o Sistemas da Informação no Inteli.
+<br/>🕵️‍ Procurando saber mais sobre programação em meu tempo livre.
+<br/>🖥️ Trabalhando em algum projeto pessoal para fixar o meu conhecimento.
  
  <div >
  <br/> 
